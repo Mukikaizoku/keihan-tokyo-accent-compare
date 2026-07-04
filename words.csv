@@ -1,9 +1,9 @@
 単語,元表記など,品詞,京阪式アクセント,東京式アクセント
-あめ,雨,名,K LH↘,T HL
-いぬ,犬,名,K HL,T LH↘
-うみ,海,名,K LH,T HL
-かわ,川,名,K HL,T LH↘
-はし,端,名,K HH,T LH
-はし,橋,名,K HL,T LH↘
-はし,箸,名,K LH,T HL
-やま,山,名,K HL,T LH↘
+あめ,雨,名,名K LH↘,名T HL
+いぬ,犬,名,名K HL,名T LH↘
+うみ,海,名,名K LH,名T HL
+かわ,川,名,名K HL,名T LH↘
+はし,端,名,名K HH,名T LH→
+はし,橋,名,名K HL,名T LH↘
+はし,箸,名,名K LH,名T HL
+やま,山,名,名K HL,名T LH↘
